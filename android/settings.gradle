@@ -1,0 +1,3 @@
+rootProject.name = 'ePlebi'
+
+include ':app'
